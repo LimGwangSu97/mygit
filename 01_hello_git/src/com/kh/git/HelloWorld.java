@@ -25,4 +25,11 @@ public class HelloWorld {
 		new Dog().sayDog();
 		new Cat().sayCat();
 	}
+	
+	/**
+	* 원격 저장소에서 수정된 내용
+	*/
+	public void hello(){
+		System.ouy.println("저를 fetch해주세요");	
+	}
 }
