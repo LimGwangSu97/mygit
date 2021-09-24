@@ -30,6 +30,14 @@ public class HelloWorld {
 	* 원격 저장소에서 수정된 내용
 	*/
 	public void hello(){
-		System.ouy.println("저를 fetch해주세요");	
+		System.out.println("저를 fetch해주세요");	
 	}
+	
+	/**
+	* 원격 저장소에서 수정된 내용
+	*/
+	public void world(){
+		System.out.println("저를 pull해주세요");	
+	}
+
 }
